@@ -5,7 +5,7 @@
 ## GORM Guides
 
 - Getting Started
-  - [ ] Overview
+  - [x] [Overview](https://github.com/thanhlt-1007/gorm.io-docs-quickstart)
   - [ ] Declaring Models
   - [ ] Connecting to Database
 
