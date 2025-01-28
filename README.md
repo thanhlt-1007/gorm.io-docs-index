@@ -6,7 +6,7 @@
 
 - Getting Started
   - [x] [Overview](https://github.com/thanhlt-1007/gorm.io-docs-quickstart)
-  - [ ] Declaring Models
+  - [x] [Declaring Models](https://github.com/thanhlt-1007/https-gorm.io-docs-models)
   - [ ] Connecting to Database
 
 - CRUD Interface
