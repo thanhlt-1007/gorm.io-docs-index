@@ -10,7 +10,7 @@
   - [x] [Connecting to Database](https://github.com/thanhlt-1007/gorm.io-docs-connecting_to_the_database)
 
 - CRUD Interface
-  - [ ] Create
+  - [x] [Create](https://github.com/thanhlt-1007/gorm.io-docs-create)
   - [ ] Query
   - [ ] Advanced Query
   - [ ] Update
