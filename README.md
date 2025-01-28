@@ -11,7 +11,7 @@
 
 - CRUD Interface
   - [x] [Create](https://github.com/thanhlt-1007/gorm.io-docs-create)
-  - [ ] Query
+  - [x] [Query](https://github.com/thanhlt-1007/gorm.io-docs-query)
   - [ ] Advanced Query
   - [ ] Update
   - [ ] Delete
