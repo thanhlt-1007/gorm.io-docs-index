@@ -13,7 +13,7 @@
   - [x] [Create](https://github.com/thanhlt-1007/gorm.io-docs-create)
   - [x] [Query](https://github.com/thanhlt-1007/gorm.io-docs-query)
   - [ ] Advanced Query
-  - [ ] Update
+  - [x] [Update](https://github.com/thanhlt-1007/gorm.io-docs-update)
   - [ ] Delete
   - [ ] Raw SQL & SQL Builder
 
